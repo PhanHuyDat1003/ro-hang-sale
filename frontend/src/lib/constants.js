@@ -25,7 +25,7 @@ export const STATUS_META = {
 };
 
 export const STATUS_LIST = Object.keys(STATUS_META);
-export const DISTRICTS = ["Quận 2", "Thảo Điền", "An Phú", "Bình Thạnh", "Quận 7"];
+export const DISTRICTS = ["An Phú - An Khánh", "Bình Trưng Tây", "Bình Trung Đông", "Cát Lái"];
 
 export const EMPTY_ROOM = {
   name: "",
